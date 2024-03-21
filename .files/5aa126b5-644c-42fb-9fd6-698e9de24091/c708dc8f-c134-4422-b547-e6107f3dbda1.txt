@@ -1,0 +1,27 @@
+return	x1	+	x2;
+	 }
+	 int	baz(int	x1)	{	
+	 	 return	x1	+	1;
+	 }
+	 int	scum(int	r)	{	
+	 	 for	(i	=	0;	i	=	2;	i++)	
+	 	 	 foo(r	+	i,5);
+	 }
+	 main()	{	
+	 	 scum(3);	
+	 	 baz(2);
+	 m}
+  Q2-9 Why are specialized instruction sets such as Neon or Jazelle useful?
+ Q2-10 Is the PIC16F a general-purpose register machine?
+ Q2-11 How large is the program counter stack in the PIC16F?
+ Q2-12 What two registers contribute to the program counter value?
+ Q2-13 What data types does the C55x support?
+ Q2-14 How many accumulators does the C55x have?
+ Q2-15 What C55x register holds arithmetic and bit manipulation flags?
+ Q2-16 What is a block repeat in the C55x?
+ Q2-17  How are the C55x data and program memory arranged in the physical 
+memory?
+ Q2-18 Where are C55x memory-mapped registers located in the address space?
+ Q2-19 What is the AR register used for in the C55x?
+ Q2-20  What is the difference between DP and PDP addressing modes in the 
+C55x?

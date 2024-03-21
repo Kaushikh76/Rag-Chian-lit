@@ -1,0 +1,17 @@
+described in Figure 1.18, moving from a change on the front panel to the 
+required changes on the train:
+a. Show it in the form of a collaboration diagram.
+b. Show it in the form of a sequence diagram.
+ Q1-18   Show how a Set-inertia  command flows through the refined class structure 
+described in Figure 1.18, moving from a change on the front panel to the 
+required changes on the train:
+a. Show it in the form of a collaboration diagram.
+b. Show it in the form of a sequence diagram.
+ Q1-19   Show how an Estop command flows through the refined class structure 
+described in Figure 1.18, moving from a change on the front panel to the 
+required changes on the train:
+a. Show it in the form of a collaboration diagram.
+b. Show it in the form of a sequence diagram.
+ Q1-20   Draw a state diagram for a behavior that sends the command bits on the 
+track. The machine should generate the address, generate the correct 
+message type, include the parameters, and generate the ECC.

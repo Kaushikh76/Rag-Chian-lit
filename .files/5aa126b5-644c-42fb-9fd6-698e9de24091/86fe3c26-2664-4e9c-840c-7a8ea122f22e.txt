@@ -1,0 +1,14 @@
+time frame. It is essential that the performance requirements be identified early 
+because they must be carefully measured during implementation to ensure that 
+the system works properly.
+• Manufacturing cost:  This includes primarily the cost of the hardware 
+components. Even if you don’t know exactly how much you can afford to spend 
+on system components, you should have some idea of the eventual cost range. 
+Cost has a substantial influence on architecture: A machine that is meant to sell 
+at $10 most likely has a very different internal structure than a $100 system.
+• Power:  Similarly, you may have only a rough idea of how much power the 
+system can consume, but a little information can go a long way. Typically, the 
+most important decision is whether the machine will be battery powered or 
+plugged into the wall. Battery-powered machines must be much more careful 
+about how they spend energy.
+• Physical size and weight:  You should give some indication of the physical size of

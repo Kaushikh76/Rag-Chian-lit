@@ -1,0 +1,15 @@
+a certain size, or meet other nonfunctional requirements.
+• A hierarchical design process takes the design through several different levels of 
+abstraction. You may need to do both top-down and bottom-up design.
+• We use UML to describe designs at several levels of abstraction.
+• This book takes a bottom-up view of embedded system design.
+Further reading
+Koopman [Koo10] describes in detail the phases of embedded computing system 
+development. Spasov [Spa99] describes how 68HC11 microcontrollers are used in 
+Canon EOS cameras. Douglass [Dou98] gives a good introduction to UML for embed -
+ded systems. Other foundational books on object-oriented design include Rumbaugh 
+et al. [Rum91], Booch [Boo91], Shlaer and Mellor [Shl92], and Selic et al. [Sel94].
+Questions
+   Q1-1  Briefly describe the distinction between requirements and specification.
+   Q1-2  Give an example of a requirement on a computer printer.
+   Q1-3  Give an example of a requirement on a digital still camera.

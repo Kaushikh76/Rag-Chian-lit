@@ -1,0 +1,17 @@
+instructions, such as saving and restoring multiple registers.
+• The PIC16F is a very small, efficient microcontroller.
+• The C55x provides a number of architectural features to support the arithmetic 
+loops that are common on digital signal processing code.
+• The C64x organizes instructions into execution packets to enable parallel 
+execution.
+Further reading
+Books by Jaggar [Jag95], Furber [Fur96], and Sloss et al. [Slo04] describe the ARM 
+architecture. The ARM Web site, http://www.arm.com , contains a large number of 
+documents describing various  versions of ARM. Information on the PIC16F can be 
+found at www.microchip.com . Information on the C55x and C64x can be found at 
+http://www.ti.com .
+Questions
+  Q2-1  What is the difference between a big-endian and little-endian data 
+representation?
+  Q2-2  What is the difference between the Harvard and von Neumann architectures?
+  Q2-3 Answer the following questions about the ARM programming model:

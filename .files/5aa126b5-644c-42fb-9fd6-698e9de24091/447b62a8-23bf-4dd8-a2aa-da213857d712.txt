@@ -1,0 +1,12 @@
+What 	requirements 	might 	we	have 	for	our	GPS	moving 	map? 	Here 	is	an	initial 	list:
+•		Functionality: 	This	system 	is	designed 	for	highway 	driving 	and	similar 	uses, 	not	nautical 	
+or	aviation 	uses	that	require 	more 	specialized 	databases 	and	functions. 	The	system 	
+should 	show 	major 	roads 	and	other 	landmarks 	available 	in	standard 	topographic 		
+databases.
+•		User interface: 	The	screen 	should 	have 	at	least 	400	×	600	pixel 	resolution. 	The	device 	
+should 	be	controlled 	by	no	more 	than	three 	buttons. 	A	menu 	system 	should 	pop	up	on	
+the	screen 	when 	buttons 	are	pressed 	to	allow 	the	user	to	make 	selections 	to	control 	the	
+system.
+•		Performance: 	The	map	should 	scroll 	smoothly. 	Upon 	power-up, 	a	display 	should 	take	no	
+more 	than	one	second 	to	appear, 	and	the	system 	should 	be	able	to	verify 	its	position 	and	
+display 	the	current 	map	within 	15	seconds.
